@@ -1,2 +1,2 @@
 config:
-  info: "branch:master file:springcloud_config,application_sit.yml version:1.5"
+  info: "branch:master file:springcloud_config,application.yml version:1.5"
